@@ -1,0 +1,135 @@
+
+Showing All Messages
+Capabilities for Signing & Capabilities may not function correctly because its entitlements use a placeholder team ID. To resolve this, select a development team in the api editor.
+
+MkDir /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    /bin/mkdir -p /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/Entitlements-Simulated.plist (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/Entitlements-Simulated.plist
+
+ProcessProductPackaging "" /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.app-Simulated.xcent (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "FAKETEAMID.com.rnw.api";
+    "keychain-access-groups" =     (
+        "FAKETEAMID.com.rnw.api"
+    );
+}
+    
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.app-Simulated.xcent
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/Entitlements.plist (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/Entitlements.plist
+
+ProcessProductPackaging "" /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.app.xcent (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    
+    Entitlements:
+    
+    {
+    "com.apple.security.get-task-allow" = 1;
+}
+    
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.app.xcent
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/all-product-headers.yaml (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/all-product-headers.yaml
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-all-non-framework-target-headers.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-all-target-headers.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-generated-files.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-generated-files.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-own-target-headers.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-project-headers.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-project-headers.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.hmap (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.hmap
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-OutputFileMap.json (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-OutputFileMap.json
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.LinkFileList (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.LinkFileList
+
+WriteAuxiliaryFile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.SwiftFileList (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    write-file /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.SwiftFileList
+
+CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    export DEVELOPER_DIR\=/Users/rw/Downloads/Xcode.app/Contents/Developer
+    export SDKROOT\=/Users/rw/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk
+    /Users/rw/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -incremental -module-name api -Onone -enable-batch-mode -enforce-exclusivity\=checked @/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.SwiftFileList -DDEBUG -sdk /Users/rw/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk -target x86_64-apple-ios15.0-simulator -g -module-cache-path /Users/rw/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Index/DataStore -swift-version 5 -I /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator -F /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator -emit-localized-strings -emit-localized-strings-path /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64 -c -j12 -output-file-map /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-OutputFileMap.json -parseable-output -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-generated-files.hmap -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-own-target-headers.hmap -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-all-target-headers.hmap -Xcc -iquote -Xcc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api-project-headers.hmap -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/include -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources-normal/x86_64 -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/x86_64 -Xcc -I/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-Swift.h -working-directory /Users/rw/Desktop/bhargav-iOS/api
+
+Ld /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app/api normal (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    /Users/rw/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -target x86_64-apple-ios15.0-simulator -isysroot /Users/rw/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk -L/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator -F/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator -filelist /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -dead_strip -Xlinker -object_path_lto -Xlinker /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api_lto.o -Xlinker -export_dynamic -Xlinker -no_deduplicate -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -L/Users/rw/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/api.app-Simulated.xcent -Xlinker -no_adhoc_codesign -Xlinker -dependency_info -Xlinker /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api_dependency_info.dat -o /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app/api
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64-apple-ios-simulator.swiftmodule (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64-apple-ios-simulator.swiftmodule
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64.swiftmodule (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftmodule /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64.swiftmodule
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftsourceinfo /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftsourceinfo /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftsourceinfo /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/Project/x86_64.swiftsourceinfo (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftsourceinfo /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/Project/x86_64.swiftsourceinfo
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-Swift.h /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources/api-Swift.h (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api-Swift.h /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/DerivedSources
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftdoc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64-apple-ios-simulator.swiftdoc (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftdoc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64-apple-ios-simulator.swiftdoc
+
+PBXCp /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftdoc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64.swiftdoc (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Objects-normal/x86_64/api.swiftdoc /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.swiftmodule/x86_64.swiftdoc
+
+CompileAssetCatalog /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app /Users/rw/Desktop/bhargav-iOS/api/api/Assets.xcassets (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    /Users/rw/Downloads/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/assetcatalog_dependencies --output-partial-info-plist /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/assetcatalog_generated_info.plist --app-icon AppIcon --accent-color AccentColor --compress-pngs --enable-on-demand-resources YES --filter-for-device-model iPhone13,3 --filter-for-device-os-version 15.0 --development-region en --target-device iphone --target-device ipad --minimum-deployment-target 15.0 --platform iphonesimulator --compile /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Products/Debug-iphonesimulator/api.app /Users/rw/Desktop/bhargav-iOS/api/api/Assets.xcassets
+
+/* com.apple.actool.compilation-results */
+/Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/assetcatalog_generated_info.plist
+
+
+CompileStoryboard /Users/rw/Desktop/bhargav-iOS/api/api/Base.lproj/LaunchScreen.storyboard (in target 'api' from project 'api')
+    cd /Users/rw/Desktop/bhargav-iOS/api
+    export XCODE_DEVELOPER_USR_PATH\=/Users/rw/Downloads/Xcode.app/Contents/Developer/usr/bin/..
+    /Users/rw/Downloads/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --module api --output-partial-info-plist /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Base.lproj/LaunchScreen-SBPartialInfo.plist --auto-activate-custom-fonts --target-device iphone --target-device ipad --minimum-deployment-target 15.0 --output-format human-readable-text --compilation-directory /Users/rw/Library/Developer/Xcode/DerivedData/api-emouwqbyzvspuffatblvvpjrxcgd/Build/Intermediates.noindex/api.build/Debug-iphonesimulator/api.build/Base.lproj /Users/rw/Desktop/bhargav-iOS/api/api/Base.lproj/LaunchScreen.storyboard
+
+/* com.apple.ibtool.document.errors */
+/Users/rw/Desktop/bhargav-iOS/api/api/Base.lproj/LaunchScreen.storyboard:J66-Uo-iXe: error: Launch screens may not set custom classnames [12]
+
